@@ -1,0 +1,25 @@
+.sub-heading h1 {
+    width: 300px;
+    height: 50px;
+    margin-left: 23%;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+.about {
+    margin-left: 23%;
+}
+
+.para-1 {
+    width: 900px;
+    line-height: 2;
+}
+
+/* Vertical line*/
+.v1 {
+    border-left: 3px solid #111;
+    height: 465px;
+    position: absolute;
+    left: 20%;
+    margin-top: 20px;
+}

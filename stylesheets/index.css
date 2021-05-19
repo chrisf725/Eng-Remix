@@ -1,0 +1,39 @@
+.first {
+    width: 300px;
+    height: 400px;
+    margin-left: 23%;
+    margin-top: 50px;
+}
+
+.sub-heading h1 {
+    width: 300px;
+    height: 50px;
+    margin-left: 23%;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+
+.img-container {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.center-text {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size: 60px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Vertical line*/
+.v1 {
+    border-left: 3px solid #111;
+    height: 465px;
+    position: absolute;
+    left: 20%;
+    margin-top: 20px;
+}
